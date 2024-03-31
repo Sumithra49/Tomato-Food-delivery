@@ -5,6 +5,7 @@ This React application is a restaurant platform where users can explore menu ite
 ## ##Features
  Menu Exploration:Users can explore the restaurant's menu items categorized by different food types.<br>
 Adding to Cart: Users can add items to their cart from the menu.<br>
+Filtering: Users can filter menu items based on various criteria such as category, or dietary preferences.<br>
 Cart Management: Users can view their cart, remove items, and proceed to checkout.<br>
 Order Placement: Users can input delivery information and place orders.<br>
 Responsive Design: The application is responsive and suitable for various screen sizes.<br>
