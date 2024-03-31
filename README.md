@@ -1,7 +1,8 @@
 # Tomato-Food-delivery
 React Restaurant Application
 This React application is a restaurant platform where users can explore menu items, add items to their cart, place orders, and proceed to checkout. It features a responsive design and utilizes React Router for navigation.
-
+## Deployment
+The application is deployed and accessible at https://app-food-tomato.netlify.app/
 ## ##Features
  Menu Exploration:Users can explore the restaurant's menu items categorized by different food types.<br>
  ![image](https://github.com/Sumithra49/Tomato-Food-delivery/assets/141726527/bf7d10dc-fec3-4090-8329-8dc7b0488fee)
@@ -28,7 +29,7 @@ Responsive Design: The application is responsive and suitable for various screen
 ## Tech Stack
 The application is built using the following technologies:
 
-React:JavaScript library for building user interfaces.
-HTML: Markup language for structuring web pages.
-CSS: Stylesheet language for styling web pages.
-React Router:Declarative routing for React applications.
+React:JavaScript library for building user interfaces.<br>
+HTML: Markup language for structuring web pages.<br>
+CSS: Stylesheet language for styling web pages.<br>
+React Router:Declarative routing for React applications.<br>
